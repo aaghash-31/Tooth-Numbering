@@ -3,3 +3,6 @@ torch>=2.0.0
 torchvision
 cv2
 glob
+matplotlib
+pandas
+opencv
